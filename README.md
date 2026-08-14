@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Weka%20Surajati&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Data%20Enthusiast%20%7C%20Shoegaze%20%26%20Pop%20Punk%20Coder&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=600&lines=hi+there%2C+i'm+weka+%F0%9F%91%8B;data+enthusiast+%E2%9C%A8;shoegaze+%2B+pop+punk+coder+%F0%9F%8E%A7" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wekasurajati/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wekasurajati)
@@ -10,10 +10,11 @@
 
 ---
 
-### 🫧 about me, kinda
+### 🫧 Hello call me Raja.
 
-not gonna lie, i just vibe with data 📊 — Information Systems student at Universitas Negeri Surabaya, currently grinding through **Dicoding's Asah 2026** (Data Science Specialist track, let's gooo).
+I'm an Information Systems student at **Universitas Negeri Surabaya**, currently sharpening my skills through **Dicoding's Asah 2026** program (Data Science Specialist track).
 
+I love working with data — from cleaning messy datasets to building dashboards and models that actually help people make decisions.
 turning messy spreadsheets into something that actually makes sense is my whole personality rn.
 
 - 🔭 building stuff in **Business Intelligence** & **Machine Learning**, no cap
@@ -72,7 +73,5 @@ turning messy spreadsheets into something that actually makes sense is my whole 
 <div align="center">
 
 *currently in my "let the data speak" era* 🌫️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
