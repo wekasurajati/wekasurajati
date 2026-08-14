@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Raja 👋
+# Hello , I'm Weka Surajati Sudanta 
 
-### Information Systems Student • Data Enthusiast • Turning Data into Decisions
+### Undergraduate Information Systems Student  • Data Enthusiast 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wekasurajati/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wekasurajati)
@@ -12,20 +12,20 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
 I'm an Information Systems student at **Universitas Negeri Surabaya**, currently sharpening my skills through **Dicoding's Asah 2026** program (Data Science Specialist track).
 
 I love working with data — from cleaning messy datasets to building dashboards and models that actually help people make decisions.
 
-- 🔭 Currently building projects in **Business Intelligence** & **Machine Learning**
-- 🌱 Learning advanced **SQL**, **data visualization**, and applied **ML**
-- 💡 Interested in how data can solve real business problems
-- ⚡ Fun fact: I enjoy turning spreadsheets into stories
+-  Currently building projects in **Business Intelligence** & **Machine Learning**
+-  Learning advanced **SQL**, **data visualization**, and applied **ML**
+-  Interested in how data can solve real business problems
+-  Fun fact: I enjoy turning spreadsheets into stories
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -41,27 +41,15 @@ I love working with data — from cleaning messy datasets to building dashboards
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://vercel.app)](https://github.com/wekasurajati/github-readme-stats)
-![Top Langs](https://vercel.app)
-![Streak Stats](https://herokuapp.com)
-
-
-
 </div>
 
 ---
 
-### 📌 Featured Projects
+### Projects
 
-| Project | Description |
-|---|---|
-| 🛍️ [**Letterbook**](https://github.com/wekasurajati/letterbook-project) | An e-book/e-commerce platform for book lovers |
-| 📈 [**BI Dashboard UMKM**](https://github.com/wekasurajati/BISIX_BI-Penjualan-UMKM) | Sales analytics & forecasting dashboard for a paper products UMKM |
-| 🏦 [**Bank Marketing Intelligence**](https://github.com/wekasurajati/bank-marketing-intelligence) | ML-driven customer segmentation & classification for term deposits |
+- **[Letterbook](https://github.com/wekasurajati/letterbook-project)** — an e-book/e-commerce platform for book lovers
+- **[BI Dashboard UMKM](https://github.com/wekasurajati/BISIX_BI-Penjualan-UMKM)** — sales analytics and forecasting dashboard for a paper products UMKM
+- **[Bank Marketing Intelligence](https://github.com/wekasurajati/bank-marketing-intelligence)** — customer segmentation and classification model for term deposit marketing
 
 ---
 
