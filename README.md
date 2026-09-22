@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hello , I'm Weka Surajati Sudanta 
+# Hi, I'm Weka 👋
 
-### Undergraduate Information Systems Student  • Data Enthusiast 
+**Information Systems Student** · Data & BI Enthusiast
+
+I turn messy datasets into dashboards, models, and stories that make sense to people who don't have time to read raw numbers.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wekasurajati/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wekasurajati)
@@ -10,51 +12,60 @@
 
 </div>
 
----
+<br>
 
-###  About Me
+## About Me
 
-I'm an Information Systems student at **Universitas Negeri Surabaya**, currently sharpening my skills through **Dicoding's Asah 2026** program (Data Science Specialist track).
+I'm currently studying Information Systems at **Universitas Negeri Surabaya (UNESA)**, focused on Data Analytics, Business Intelligence, and Machine Learning. Right now I'm deepening that focus through Dicoding's **Asah 2026** program on the Data Science Specialist track.
 
-I love working with data — from cleaning messy datasets to building dashboards and models that actually help people make decisions.
+What I'm into these days:
 
--  Currently building projects in **Business Intelligence** & **Machine Learning**
--  Learning advanced **SQL**, **data visualization**, and applied **ML**
--  Interested in how data can solve real business problems
--  Fun fact: I enjoy turning spreadsheets into stories
+- Building end-to-end data projects — from cleaning and exploration to dashboards and models
+- Sharpening SQL, data visualization, and applied ML
+- Figuring out how data can actually change a business decision, not just decorate a report
 
----
+<br>
 
-###  Tech Stack
+## Tech Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
----
+<br>
 
+## Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Beijing Air Quality Analytics & Dashboard](https://github.com/wekasurajati/air-quality-dashboard)** | End-to-end analysis of the Beijing PRSA air quality dataset (12 stations), from EDA to an interactive dashboard | Python, Pandas, Streamlit |
+| **[PaperPilot – RAG Document Q&A](https://github.com/wekasurajati/paperpilot)** | A chatbot that answers questions directly from uploaded PDF documents using retrieval-augmented generation | Streamlit, LangChain, Gemini API, FAISS |
+| **[Bank Marketing Intelligence](https://github.com/wekasurajati/bank-marketing-intelligence)** | Customer segmentation and classification pipeline to identify prospects most likely to subscribe to a term deposit | Python, scikit-learn, K-Means, XGBoost |
+| **[UMKM Sales Trend Analysis & Forecasting Dashboard](https://github.com/wekasurajati/BISIX_BI-Penjualan-UMKM)** | Full BI pipeline for a paper-products UMKM: star-schema warehouse, SSIS ETL, forecasting model, and a Power BI dashboard | SQL Server, SSIS, SSAS, Python, Power BI |
+| **[Letterbook](https://github.com/wekasurajati/letterbook-project)** | An online bookstore web app where users can browse and purchase e-books | PHP, HTML5, CSS |
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wekasurajati/wekasurajati/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
 </div>
 
----
-
-### Projects
-
-- **[Letterbook](https://github.com/wekasurajati/letterbook-project)** — an e-book/e-commerce platform for book lovers
-- **[BI Dashboard UMKM](https://github.com/wekasurajati/BISIX_BI-Penjualan-UMKM)** — sales analytics and forecasting dashboard for a paper products UMKM
-- **[Bank Marketing Intelligence](https://github.com/wekasurajati/bank-marketing-intelligence)** — customer segmentation and classification model for term deposit marketing
-
----
+<br>
 
 <div align="center">
 
-
+📫 Let's connect — always happy to talk about data, projects, or collaboration ideas.
 
 </div>
