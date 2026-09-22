@@ -1,10 +1,9 @@
 <div align="center">
 
-# Hi, I'm Weka 👋
+# Hello, I'm Weka
 
-**Information Systems Student** · Data & BI Enthusiast
 
-I turn messy datasets into dashboards, models, and stories that make sense to people who don't have time to read raw numbers.
+*Information Systems Undergraduate at State University of Surabaya | Data Science Specialist Participant at Asah led by Dicoding | Data Analytics, AI Enthusiast*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wekasurajati/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wekasurajati)
@@ -20,7 +19,7 @@ I'm currently studying Information Systems at **Universitas Negeri Surabaya (UNE
 
 What I'm into these days:
 
-- Building end-to-end data projects — from cleaning and exploration to dashboards and models
+- Building end-to-end data projects, from cleaning and exploration to dashboards and models
 - Sharpening SQL, data visualization, and applied ML
 - Figuring out how data can actually change a business decision, not just decorate a report
 
@@ -56,7 +55,7 @@ What I'm into these days:
 
 <br>
 
-## 🐍 Contribution Snake
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/wekasurajati/wekasurajati/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
@@ -66,6 +65,6 @@ What I'm into these days:
 
 <div align="center">
 
-📫 Let's connect — always happy to talk about data, projects, or collaboration ideas.
+📫 Let's connect guys, i'm always happy to talk about data, projects, or collaboration ideas.
 
 </div>
